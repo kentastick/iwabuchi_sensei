@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+LiverAnnotation/
+LiverMap2.0/
+*.txt
+*.rds
+20220418/data/
+20220418/image/
